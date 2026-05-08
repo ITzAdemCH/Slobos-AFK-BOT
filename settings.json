@@ -8,7 +8,7 @@
   "server": {
     "ip": "alzmala_smp.aternos.me",
     "port": 50199,
-    "version": "1.21.1"
+    "version": "1.14.2"
   },
   "position": {
     "enabled": true,
